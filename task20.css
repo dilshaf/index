@@ -70,7 +70,8 @@
 }
 .but{
     margin-top: 40px;
-    margin-left: 295px;
+    
+    text-align: center;
 }
 .nav-link:hover{
     /* background-color: skyblue;
